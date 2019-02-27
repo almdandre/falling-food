@@ -5,4 +5,4 @@
 
 
 ## Quer jogar?
-[🎮 Clique aqui para baixar o jogo! (formato .sb3)](https://github.com/almdandre/falling-food/blob/master/Falling%20Food_%20Alimente-se%20Bem!.sb3)
+[🎮 Clique aqui para baixar o jogo! (formato .sb3)](https://github.com/almdandre/falling-food/raw/master/Falling%20Food_%20Alimente-se%20Bem!.sb3)
